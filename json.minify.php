@@ -54,4 +54,4 @@ function json_minify($json) {
 	return implode("",$new_str);
 }
 
-?>
+
